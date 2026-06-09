@@ -1,4 +1,4 @@
-# visualStudioFinalProject
+# visualBasicFinalProject
 Calculate future dates
 
 
