@@ -1,6 +1,16 @@
 # visualBasicFinalProject
 Calculate future dates
 
+![p](https://github.com/bell-kevin/visualBasicFinalProject/blob/master/futureTimes/1.png)
+
+![p](https://github.com/bell-kevin/visualBasicFinalProject/blob/master/futureTimes/2.png)
+
+![p](https://github.com/bell-kevin/visualBasicFinalProject/blob/master/futureTimes/3.png)
+
+![p](https://github.com/bell-kevin/visualBasicFinalProject/blob/master/futureTimes/4.png)
+
+![p](https://github.com/bell-kevin/visualBasicFinalProject/blob/master/futureTimes/5.png)
+
 
 == We're Using GitHub Under Protest ==
 
